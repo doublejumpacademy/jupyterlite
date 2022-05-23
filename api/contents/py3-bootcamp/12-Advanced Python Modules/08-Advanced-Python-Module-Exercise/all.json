@@ -1,0 +1,61 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.152566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:44:48.152566Z",
+      "mimetype": null,
+      "name": "extracted_content",
+      "path": "py3-bootcamp/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.120566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.292490Z",
+      "mimetype": null,
+      "name": "07-Advanced-Modules-Exercise-Puzzle.ipynb",
+      "path": "py3-bootcamp/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/07-Advanced-Modules-Exercise-Puzzle.ipynb",
+      "size": 1631,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.124566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.292490Z",
+      "mimetype": null,
+      "name": "08-Advanced-Modules-Exercise-Solutions.ipynb",
+      "path": "py3-bootcamp/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/08-Advanced-Modules-Exercise-Solutions.ipynb",
+      "size": 6750,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.160566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.300490Z",
+      "mimetype": "application/zip",
+      "name": "unzip_me_for_instructions.zip",
+      "path": "py3-bootcamp/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/unzip_me_for_instructions.zip",
+      "size": 198430,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-05-23T03:44:48.160566Z",
+  "format": "json",
+  "last_modified": "2022-05-23T03:44:48.160566Z",
+  "mimetype": null,
+  "name": "08-Advanced-Python-Module-Exercise",
+  "path": "py3-bootcamp/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

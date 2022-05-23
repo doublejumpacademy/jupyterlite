@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.224566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.412490Z",
+      "mimetype": null,
+      "name": "01-Overview-of-Received-Emails.ipynb",
+      "path": "py3-bootcamp/16-Emailing-with-Python/01-Overview-of-Received-Emails.ipynb",
+      "size": 13119,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.224566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.412490Z",
+      "mimetype": null,
+      "name": "02-Exercise-Ideas.ipynb",
+      "path": "py3-bootcamp/16-Emailing-with-Python/02-Exercise-Ideas.ipynb",
+      "size": 1570,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.224566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.412490Z",
+      "mimetype": null,
+      "name": "00-Overview-of-Sending-Emails.ipynb",
+      "path": "py3-bootcamp/16-Emailing-with-Python/00-Overview-of-Sending-Emails.ipynb",
+      "size": 9451,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-05-23T03:44:48.224566Z",
+  "format": "json",
+  "last_modified": "2022-05-23T03:44:48.224566Z",
+  "mimetype": null,
+  "name": "16-Emailing-with-Python",
+  "path": "py3-bootcamp/16-Emailing-with-Python",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

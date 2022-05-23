@@ -1,0 +1,61 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.104566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.288490Z",
+      "mimetype": null,
+      "name": "02-Milestone Project 1 - Walkthrough Steps Workbook.ipynb",
+      "path": "py3-bootcamp/04-Milestone Project - 1/02-Milestone Project 1 - Walkthrough Steps Workbook.ipynb",
+      "size": 8248,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.104566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.288490Z",
+      "mimetype": null,
+      "name": "03-Milestone Project 1 - Complete Walkthrough Solution.ipynb",
+      "path": "py3-bootcamp/04-Milestone Project - 1/03-Milestone Project 1 - Complete Walkthrough Solution.ipynb",
+      "size": 12798,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.104566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.288490Z",
+      "mimetype": null,
+      "name": "00-Warm-Up-Project-Exercises.ipynb",
+      "path": "py3-bootcamp/04-Milestone Project - 1/00-Warm-Up-Project-Exercises.ipynb",
+      "size": 24061,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.104566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.288490Z",
+      "mimetype": null,
+      "name": "01-Milestone Project 1 - Assignment.ipynb",
+      "path": "py3-bootcamp/04-Milestone Project - 1/01-Milestone Project 1 - Assignment.ipynb",
+      "size": 2798,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-05-23T03:44:48.104566Z",
+  "format": "json",
+  "last_modified": "2022-05-23T03:44:48.104566Z",
+  "mimetype": null,
+  "name": "04-Milestone Project - 1",
+  "path": "py3-bootcamp/04-Milestone Project - 1",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

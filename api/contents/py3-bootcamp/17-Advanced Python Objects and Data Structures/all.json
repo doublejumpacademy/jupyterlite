@@ -1,0 +1,109 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.224566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.412490Z",
+      "mimetype": null,
+      "name": "02-Advanced Strings.ipynb",
+      "path": "py3-bootcamp/17-Advanced Python Objects and Data Structures/02-Advanced Strings.ipynb",
+      "size": 10558,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.224566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.412490Z",
+      "mimetype": null,
+      "name": "08-BONUS - With Statement Context Managers.ipynb",
+      "path": "py3-bootcamp/17-Advanced Python Objects and Data Structures/08-BONUS - With Statement Context Managers.ipynb",
+      "size": 7805,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.224566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.412490Z",
+      "mimetype": null,
+      "name": "05-Advanced Lists.ipynb",
+      "path": "py3-bootcamp/17-Advanced Python Objects and Data Structures/05-Advanced Lists.ipynb",
+      "size": 13619,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.224566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.412490Z",
+      "mimetype": null,
+      "name": "03-Advanced Sets.ipynb",
+      "path": "py3-bootcamp/17-Advanced Python Objects and Data Structures/03-Advanced Sets.ipynb",
+      "size": 13418,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.224566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.412490Z",
+      "mimetype": null,
+      "name": "01-Advanced Numbers.ipynb",
+      "path": "py3-bootcamp/17-Advanced Python Objects and Data Structures/01-Advanced Numbers.ipynb",
+      "size": 5920,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.224566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.412490Z",
+      "mimetype": null,
+      "name": "07-Advanced Python Objects Test - Solutions.ipynb",
+      "path": "py3-bootcamp/17-Advanced Python Objects and Data Structures/07-Advanced Python Objects Test - Solutions.ipynb",
+      "size": 5268,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.224566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.412490Z",
+      "mimetype": null,
+      "name": "04-Advanced Dictionaries.ipynb",
+      "path": "py3-bootcamp/17-Advanced Python Objects and Data Structures/04-Advanced Dictionaries.ipynb",
+      "size": 4444,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.224566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.412490Z",
+      "mimetype": null,
+      "name": "06-Advanced Python Objects Test.ipynb",
+      "path": "py3-bootcamp/17-Advanced Python Objects and Data Structures/06-Advanced Python Objects Test.ipynb",
+      "size": 3436,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-05-23T03:44:48.224566Z",
+  "format": "json",
+  "last_modified": "2022-05-23T03:44:48.224566Z",
+  "mimetype": null,
+  "name": "17-Advanced Python Objects and Data Structures",
+  "path": "py3-bootcamp/17-Advanced Python Objects and Data Structures",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

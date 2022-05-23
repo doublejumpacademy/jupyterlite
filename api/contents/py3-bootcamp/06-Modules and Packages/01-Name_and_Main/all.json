@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.108566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.288490Z",
+      "mimetype": "text/x-python",
+      "name": "two.py",
+      "path": "py3-bootcamp/06-Modules and Packages/01-Name_and_Main/two.py",
+      "size": 187,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.108566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.288490Z",
+      "mimetype": "text/plain",
+      "name": "Explanation.txt",
+      "path": "py3-bootcamp/06-Modules and Packages/01-Name_and_Main/Explanation.txt",
+      "size": 2221,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.108566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.288490Z",
+      "mimetype": "text/x-python",
+      "name": "one.py",
+      "path": "py3-bootcamp/06-Modules and Packages/01-Name_and_Main/one.py",
+      "size": 223,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-05-23T03:44:48.108566Z",
+  "format": "json",
+  "last_modified": "2022-05-23T03:44:48.108566Z",
+  "mimetype": null,
+  "name": "01-Name_and_Main",
+  "path": "py3-bootcamp/06-Modules and Packages/01-Name_and_Main",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

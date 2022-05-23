@@ -1,0 +1,121 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.112566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.288490Z",
+      "mimetype": "text/x-python",
+      "name": "test_cap.py",
+      "path": "py3-bootcamp/07-Errors and Exception Handling/test_cap.py",
+      "size": 606,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.112566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.288490Z",
+      "mimetype": "text/x-python",
+      "name": "simple1.py",
+      "path": "py3-bootcamp/07-Errors and Exception Handling/simple1.py",
+      "size": 168,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.112566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.288490Z",
+      "mimetype": null,
+      "name": "testfile",
+      "path": "py3-bootcamp/07-Errors and Exception Handling/testfile",
+      "size": 20,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.112566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.288490Z",
+      "mimetype": null,
+      "name": "04-Unit Testing.ipynb",
+      "path": "py3-bootcamp/07-Errors and Exception Handling/04-Unit Testing.ipynb",
+      "size": 15415,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.112566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.288490Z",
+      "mimetype": null,
+      "name": "01-Errors and Exceptions Handling.ipynb",
+      "path": "py3-bootcamp/07-Errors and Exception Handling/01-Errors and Exceptions Handling.ipynb",
+      "size": 17183,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.112566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.288490Z",
+      "mimetype": null,
+      "name": "02-Errors and Exceptions Homework.ipynb",
+      "path": "py3-bootcamp/07-Errors and Exception Handling/02-Errors and Exceptions Homework.ipynb",
+      "size": 4624,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.112566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.288490Z",
+      "mimetype": "text/x-python",
+      "name": "simple2.py",
+      "path": "py3-bootcamp/07-Errors and Exception Handling/simple2.py",
+      "size": 170,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.112566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.288490Z",
+      "mimetype": null,
+      "name": "03-Errors and Exceptions Homework - Solution.ipynb",
+      "path": "py3-bootcamp/07-Errors and Exception Handling/03-Errors and Exceptions Homework - Solution.ipynb",
+      "size": 3483,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.112566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.288490Z",
+      "mimetype": "text/x-python",
+      "name": "cap.py",
+      "path": "py3-bootcamp/07-Errors and Exception Handling/cap.py",
+      "size": 82,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-05-23T03:44:48.112566Z",
+  "format": "json",
+  "last_modified": "2022-05-23T03:44:48.112566Z",
+  "mimetype": null,
+  "name": "07-Errors and Exception Handling",
+  "path": "py3-bootcamp/07-Errors and Exception Handling",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

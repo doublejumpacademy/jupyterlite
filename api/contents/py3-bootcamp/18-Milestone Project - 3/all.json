@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.228566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.412490Z",
+      "mimetype": null,
+      "name": "01-Final Capstone Project.ipynb",
+      "path": "py3-bootcamp/18-Milestone Project - 3/01-Final Capstone Project.ipynb",
+      "size": 840,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.228566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:44:48.228566Z",
+      "mimetype": null,
+      "name": "Projects-Solutions",
+      "path": "py3-bootcamp/18-Milestone Project - 3/Projects-Solutions",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.228566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.412490Z",
+      "mimetype": null,
+      "name": "02-Final Capstone Project Ideas.ipynb",
+      "path": "py3-bootcamp/18-Milestone Project - 3/02-Final Capstone Project Ideas.ipynb",
+      "size": 24144,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-05-23T03:44:48.228566Z",
+  "format": "json",
+  "last_modified": "2022-05-23T03:44:48.228566Z",
+  "mimetype": null,
+  "name": "18-Milestone Project - 3",
+  "path": "py3-bootcamp/18-Milestone Project - 3",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

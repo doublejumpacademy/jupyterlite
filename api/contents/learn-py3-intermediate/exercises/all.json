@@ -1,0 +1,37 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.084566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.280490Z",
+      "mimetype": null,
+      "name": "std_lib2_exercise.ipynb",
+      "path": "learn-py3-intermediate/exercises/std_lib2_exercise.ipynb",
+      "size": 6647,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.084566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.280490Z",
+      "mimetype": null,
+      "name": "idiomatic_python_exercise.ipynb",
+      "path": "learn-py3-intermediate/exercises/idiomatic_python_exercise.ipynb",
+      "size": 11248,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-05-23T03:44:48.084566Z",
+  "format": "json",
+  "last_modified": "2022-05-23T03:44:48.084566Z",
+  "mimetype": null,
+  "name": "exercises",
+  "path": "learn-py3-intermediate/exercises",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

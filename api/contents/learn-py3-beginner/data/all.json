@@ -1,0 +1,73 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.072566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.280490Z",
+      "mimetype": "text/plain",
+      "name": "numbers.txt",
+      "path": "learn-py3-beginner/data/numbers.txt",
+      "size": 28,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.072566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.280490Z",
+      "mimetype": "text/plain",
+      "name": "simple_file_with_empty_lines.txt",
+      "path": "learn-py3-beginner/data/simple_file_with_empty_lines.txt",
+      "size": 110,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.072566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.280490Z",
+      "mimetype": "text/plain",
+      "name": "simple_file.txt",
+      "path": "learn-py3-beginner/data/simple_file.txt",
+      "size": 51,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.072566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.280490Z",
+      "mimetype": "text/plain",
+      "name": "empty_file.txt",
+      "path": "learn-py3-beginner/data/empty_file.txt",
+      "size": 0,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.072566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.280490Z",
+      "mimetype": "text/plain",
+      "name": "random_data.txt",
+      "path": "learn-py3-beginner/data/random_data.txt",
+      "size": 77,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-05-23T03:44:48.072566Z",
+  "format": "json",
+  "last_modified": "2022-05-23T03:44:48.072566Z",
+  "mimetype": null,
+  "name": "data",
+  "path": "learn-py3-beginner/data",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

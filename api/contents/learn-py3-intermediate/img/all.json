@@ -1,0 +1,133 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.088566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.284490Z",
+      "mimetype": "image/jpeg",
+      "name": "ide.jpg",
+      "path": "learn-py3-intermediate/img/ide.jpg",
+      "size": 35166,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.088566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.284490Z",
+      "mimetype": "image/jpeg",
+      "name": "reinvent.jpg",
+      "path": "learn-py3-intermediate/img/reinvent.jpg",
+      "size": 32737,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.084566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.284490Z",
+      "mimetype": "image/jpeg",
+      "name": "ci.jpg",
+      "path": "learn-py3-intermediate/img/ci.jpg",
+      "size": 33325,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.088566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.284490Z",
+      "mimetype": "image/jpeg",
+      "name": "debugging.jpg",
+      "path": "learn-py3-intermediate/img/debugging.jpg",
+      "size": 55137,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.088566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.284490Z",
+      "mimetype": "image/jpeg",
+      "name": "cookiecutter.jpg",
+      "path": "learn-py3-intermediate/img/cookiecutter.jpg",
+      "size": 43643,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.084566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.284490Z",
+      "mimetype": "image/jpeg",
+      "name": "bad_code.jpg",
+      "path": "learn-py3-intermediate/img/bad_code.jpg",
+      "size": 33450,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.092566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.284490Z",
+      "mimetype": "image/jpeg",
+      "name": "virtualenvs.jpg",
+      "path": "learn-py3-intermediate/img/virtualenvs.jpg",
+      "size": 31928,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.088566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.284490Z",
+      "mimetype": "image/png",
+      "name": "testing.png",
+      "path": "learn-py3-intermediate/img/testing.png",
+      "size": 352475,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.088566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.284490Z",
+      "mimetype": "image/png",
+      "name": "high_quality_code.png",
+      "path": "learn-py3-intermediate/img/high_quality_code.png",
+      "size": 133588,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.088566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.284490Z",
+      "mimetype": "image/jpeg",
+      "name": "prints.jpg",
+      "path": "learn-py3-intermediate/img/prints.jpg",
+      "size": 21118,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-05-23T03:44:48.092566Z",
+  "format": "json",
+  "last_modified": "2022-05-23T03:44:48.092566Z",
+  "mimetype": null,
+  "name": "img",
+  "path": "learn-py3-intermediate/img",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

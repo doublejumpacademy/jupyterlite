@@ -1,0 +1,61 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.164566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.300490Z",
+      "mimetype": null,
+      "name": "02-Web-Scraping-Exercise-Solutions.ipynb",
+      "path": "py3-bootcamp/13-Web-Scraping/02-Web-Scraping-Exercise-Solutions.ipynb",
+      "size": 31499,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.164566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.300490Z",
+      "mimetype": null,
+      "name": "01-Web-Scraping-Exercises.ipynb",
+      "path": "py3-bootcamp/13-Web-Scraping/01-Web-Scraping-Exercises.ipynb",
+      "size": 19188,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.160566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.300490Z",
+      "mimetype": null,
+      "name": "00-Guide-to-Web-Scraping.ipynb",
+      "path": "py3-bootcamp/13-Web-Scraping/00-Guide-to-Web-Scraping.ipynb",
+      "size": 130267,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.164566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.300490Z",
+      "mimetype": "image/jpeg",
+      "name": "my_new_file_name.jpg",
+      "path": "py3-bootcamp/13-Web-Scraping/my_new_file_name.jpg",
+      "size": 16806,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-05-23T03:44:48.164566Z",
+  "format": "json",
+  "last_modified": "2022-05-23T03:44:48.164566Z",
+  "mimetype": null,
+  "name": "13-Web-Scraping",
+  "path": "py3-bootcamp/13-Web-Scraping",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

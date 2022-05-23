@@ -1,0 +1,73 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.108566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.288490Z",
+      "mimetype": null,
+      "name": "05-OOP Challenge - Solution.ipynb",
+      "path": "py3-bootcamp/05-Object Oriented Programming/05-OOP Challenge - Solution.ipynb",
+      "size": 4376,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.108566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.288490Z",
+      "mimetype": null,
+      "name": "03-Object Oriented Programming Homework - Solution.ipynb",
+      "path": "py3-bootcamp/05-Object Oriented Programming/03-Object Oriented Programming Homework - Solution.ipynb",
+      "size": 4086,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.104566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.288490Z",
+      "mimetype": null,
+      "name": "01-Object Oriented Programming.ipynb",
+      "path": "py3-bootcamp/05-Object Oriented Programming/01-Object Oriented Programming.ipynb",
+      "size": 21649,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.104566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.288490Z",
+      "mimetype": null,
+      "name": "02-Object Oriented Programming Homework.ipynb",
+      "path": "py3-bootcamp/05-Object Oriented Programming/02-Object Oriented Programming Homework.ipynb",
+      "size": 3713,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.108566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.288490Z",
+      "mimetype": null,
+      "name": "04-OOP Challenge.ipynb",
+      "path": "py3-bootcamp/05-Object Oriented Programming/04-OOP Challenge.ipynb",
+      "size": 3706,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-05-23T03:44:48.108566Z",
+  "format": "json",
+  "last_modified": "2022-05-23T03:44:48.108566Z",
+  "mimetype": null,
+  "name": "05-Object Oriented Programming",
+  "path": "py3-bootcamp/05-Object Oriented Programming",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

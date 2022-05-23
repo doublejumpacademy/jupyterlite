@@ -1,0 +1,109 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.228566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.416490Z",
+      "mimetype": null,
+      "name": "08-Advanced Widget Styling with Layout.ipynb",
+      "path": "py3-bootcamp/19-Bonus Material - Introduction to GUIs/08-Advanced Widget Styling with Layout.ipynb",
+      "size": 3160,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.228566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.416490Z",
+      "mimetype": null,
+      "name": "02-Widget Basics.ipynb",
+      "path": "py3-bootcamp/19-Bonus Material - Introduction to GUIs/02-Widget Basics.ipynb",
+      "size": 18849,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.228566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.416490Z",
+      "mimetype": null,
+      "name": "07-Advanced Widget List.ipynb",
+      "path": "py3-bootcamp/19-Bonus Material - Introduction to GUIs/07-Advanced Widget List.ipynb",
+      "size": 8797,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.228566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.416490Z",
+      "mimetype": null,
+      "name": "06-Custom Widget.ipynb",
+      "path": "py3-bootcamp/19-Bonus Material - Introduction to GUIs/06-Custom Widget.ipynb",
+      "size": 104903,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.228566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.416490Z",
+      "mimetype": null,
+      "name": "01-Interact.ipynb",
+      "path": "py3-bootcamp/19-Bonus Material - Introduction to GUIs/01-Interact.ipynb",
+      "size": 35819,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.228566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.416490Z",
+      "mimetype": null,
+      "name": "03-Widget List.ipynb",
+      "path": "py3-bootcamp/19-Bonus Material - Introduction to GUIs/03-Widget List.ipynb",
+      "size": 18021,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.228566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.416490Z",
+      "mimetype": null,
+      "name": "05-Widget Styling.ipynb",
+      "path": "py3-bootcamp/19-Bonus Material - Introduction to GUIs/05-Widget Styling.ipynb",
+      "size": 9071,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.228566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.416490Z",
+      "mimetype": null,
+      "name": "04-Widget Events.ipynb",
+      "path": "py3-bootcamp/19-Bonus Material - Introduction to GUIs/04-Widget Events.ipynb",
+      "size": 13354,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-05-23T03:44:48.228566Z",
+  "format": "json",
+  "last_modified": "2022-05-23T03:44:48.228566Z",
+  "mimetype": null,
+  "name": "19-Bonus Material - Introduction to GUIs",
+  "path": "py3-bootcamp/19-Bonus Material - Introduction to GUIs",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

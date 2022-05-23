@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.108566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.288490Z",
+      "mimetype": "text/x-python",
+      "name": "mymodule.py",
+      "path": "py3-bootcamp/06-Modules and Packages/00-Modules_and_Packages/mymodule.py",
+      "size": 48,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.108566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.288490Z",
+      "mimetype": "text/x-python",
+      "name": "myprogram.py",
+      "path": "py3-bootcamp/06-Modules and Packages/00-Modules_and_Packages/myprogram.py",
+      "size": 145,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.108566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:44:48.108566Z",
+      "mimetype": null,
+      "name": "MyMainPackage",
+      "path": "py3-bootcamp/06-Modules and Packages/00-Modules_and_Packages/MyMainPackage",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    }
+  ],
+  "created": "2022-05-23T03:44:48.108566Z",
+  "format": "json",
+  "last_modified": "2022-05-23T03:44:48.108566Z",
+  "mimetype": null,
+  "name": "00-Modules_and_Packages",
+  "path": "py3-bootcamp/06-Modules and Packages/00-Modules_and_Packages",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

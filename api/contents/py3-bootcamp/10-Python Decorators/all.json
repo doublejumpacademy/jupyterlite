@@ -1,0 +1,37 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.116566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.292490Z",
+      "mimetype": null,
+      "name": "02-Decorators Homework.ipynb",
+      "path": "py3-bootcamp/10-Python Decorators/02-Decorators Homework.ipynb",
+      "size": 2325,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.116566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.292490Z",
+      "mimetype": null,
+      "name": "01-Decorators.ipynb",
+      "path": "py3-bootcamp/10-Python Decorators/01-Decorators.ipynb",
+      "size": 16432,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-05-23T03:44:48.116566Z",
+  "format": "json",
+  "last_modified": "2022-05-23T03:44:48.116566Z",
+  "mimetype": null,
+  "name": "10-Python Decorators",
+  "path": "py3-bootcamp/10-Python Decorators",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

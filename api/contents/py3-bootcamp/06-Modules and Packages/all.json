@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.108566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:44:48.108566Z",
+      "mimetype": null,
+      "name": "01-Name_and_Main",
+      "path": "py3-bootcamp/06-Modules and Packages/01-Name_and_Main",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.108566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:44:48.108566Z",
+      "mimetype": null,
+      "name": "00-Modules_and_Packages",
+      "path": "py3-bootcamp/06-Modules and Packages/00-Modules_and_Packages",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.108566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.288490Z",
+      "mimetype": null,
+      "name": "Useful_Info_Notebook.ipynb",
+      "path": "py3-bootcamp/06-Modules and Packages/Useful_Info_Notebook.ipynb",
+      "size": 6691,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-05-23T03:44:48.108566Z",
+  "format": "json",
+  "last_modified": "2022-05-23T03:44:48.108566Z",
+  "mimetype": null,
+  "name": "06-Modules and Packages",
+  "path": "py3-bootcamp/06-Modules and Packages",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

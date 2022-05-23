@@ -1,0 +1,133 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.100566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.288490Z",
+      "mimetype": null,
+      "name": "07-Statements Assessment Test.ipynb",
+      "path": "py3-bootcamp/02-Python Statements/07-Statements Assessment Test.ipynb",
+      "size": 3958,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.100566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.288490Z",
+      "mimetype": null,
+      "name": "03-for Loops.ipynb",
+      "path": "py3-bootcamp/02-Python Statements/03-for Loops.ipynb",
+      "size": 13826,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.100566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.288490Z",
+      "mimetype": null,
+      "name": "04-while Loops.ipynb",
+      "path": "py3-bootcamp/02-Python Statements/04-while Loops.ipynb",
+      "size": 9143,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.100566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.288490Z",
+      "mimetype": null,
+      "name": "09-Guessing Game Challenge.ipynb",
+      "path": "py3-bootcamp/02-Python Statements/09-Guessing Game Challenge.ipynb",
+      "size": 4538,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.100566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.288490Z",
+      "mimetype": null,
+      "name": "10-Guessing Game Challenge - Solution.ipynb",
+      "path": "py3-bootcamp/02-Python Statements/10-Guessing Game Challenge - Solution.ipynb",
+      "size": 8283,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.100566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.288490Z",
+      "mimetype": null,
+      "name": "06-List Comprehensions.ipynb",
+      "path": "py3-bootcamp/02-Python Statements/06-List Comprehensions.ipynb",
+      "size": 4821,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.100566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.288490Z",
+      "mimetype": null,
+      "name": "08-Statements Assessment Test - Solutions.ipynb",
+      "path": "py3-bootcamp/02-Python Statements/08-Statements Assessment Test - Solutions.ipynb",
+      "size": 5467,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.096566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.288490Z",
+      "mimetype": null,
+      "name": "01-Introduction to Python Statements.ipynb",
+      "path": "py3-bootcamp/02-Python Statements/01-Introduction to Python Statements.ipynb",
+      "size": 3984,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.100566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.288490Z",
+      "mimetype": null,
+      "name": "05-Useful-Operators.ipynb",
+      "path": "py3-bootcamp/02-Python Statements/05-Useful-Operators.ipynb",
+      "size": 13380,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.100566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.288490Z",
+      "mimetype": null,
+      "name": "02-if, elif, and else Statements.ipynb",
+      "path": "py3-bootcamp/02-Python Statements/02-if, elif, and else Statements.ipynb",
+      "size": 5454,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-05-23T03:44:48.100566Z",
+  "format": "json",
+  "last_modified": "2022-05-23T03:44:48.100566Z",
+  "mimetype": null,
+  "name": "02-Python Statements",
+  "path": "py3-bootcamp/02-Python Statements",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

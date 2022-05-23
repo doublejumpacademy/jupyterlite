@@ -1,0 +1,133 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.212566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.408490Z",
+      "mimetype": "image/png",
+      "name": "blue_color.png",
+      "path": "py3-bootcamp/14-Working-with-Images/blue_color.png",
+      "size": 103,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.216566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.412490Z",
+      "mimetype": "image/png",
+      "name": "word_matrix.png",
+      "path": "py3-bootcamp/14-Working-with-Images/word_matrix.png",
+      "size": 82434,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.216566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.408490Z",
+      "mimetype": "image/png",
+      "name": "purple.png",
+      "path": "py3-bootcamp/14-Working-with-Images/purple.png",
+      "size": 593,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.216566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.408490Z",
+      "mimetype": "image/png",
+      "name": "mask.png",
+      "path": "py3-bootcamp/14-Working-with-Images/mask.png",
+      "size": 1217,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.176566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.404490Z",
+      "mimetype": null,
+      "name": "00-Overview-of-Working-with-Images.ipynb",
+      "path": "py3-bootcamp/14-Working-with-Images/00-Overview-of-Working-with-Images.ipynb",
+      "size": 15698935,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.216566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.408490Z",
+      "mimetype": "image/jpeg",
+      "name": "pencils.jpg",
+      "path": "py3-bootcamp/14-Working-with-Images/pencils.jpg",
+      "size": 346222,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.212566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.404490Z",
+      "mimetype": null,
+      "name": "01-Image-Exercise.ipynb",
+      "path": "py3-bootcamp/14-Working-with-Images/01-Image-Exercise.ipynb",
+      "size": 145942,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.216566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.412490Z",
+      "mimetype": "image/jpeg",
+      "name": "red_color.jpg",
+      "path": "py3-bootcamp/14-Working-with-Images/red_color.jpg",
+      "size": 525,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.212566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.408490Z",
+      "mimetype": null,
+      "name": "02-Image-Exercise-Solution.ipynb",
+      "path": "py3-bootcamp/14-Working-with-Images/02-Image-Exercise-Solution.ipynb",
+      "size": 284507,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.212566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.408490Z",
+      "mimetype": "image/jpeg",
+      "name": "example.jpg",
+      "path": "py3-bootcamp/14-Working-with-Images/example.jpg",
+      "size": 83287,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-05-23T03:44:48.216566Z",
+  "format": "json",
+  "last_modified": "2022-05-23T03:44:48.216566Z",
+  "mimetype": null,
+  "name": "14-Working-with-Images",
+  "path": "py3-bootcamp/14-Working-with-Images",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

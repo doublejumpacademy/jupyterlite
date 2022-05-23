@@ -1,0 +1,97 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.092566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.284490Z",
+      "mimetype": null,
+      "name": "idiomatic_dicts.ipynb",
+      "path": "learn-py3-intermediate/notebooks/idiomatic_dicts.ipynb",
+      "size": 6714,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.092566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.284490Z",
+      "mimetype": null,
+      "name": "idiomatic_loops.ipynb",
+      "path": "learn-py3-intermediate/notebooks/idiomatic_loops.ipynb",
+      "size": 7773,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.092566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.284490Z",
+      "mimetype": null,
+      "name": "best_practices.ipynb",
+      "path": "learn-py3-intermediate/notebooks/best_practices.ipynb",
+      "size": 21332,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.092566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.284490Z",
+      "mimetype": null,
+      "name": "pytest_fixtures.ipynb",
+      "path": "learn-py3-intermediate/notebooks/pytest_fixtures.ipynb",
+      "size": 9570,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.092566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.284490Z",
+      "mimetype": null,
+      "name": "idiomatic_misc1.ipynb",
+      "path": "learn-py3-intermediate/notebooks/idiomatic_misc1.ipynb",
+      "size": 13771,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.092566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.284490Z",
+      "mimetype": null,
+      "name": "std_lib2.ipynb",
+      "path": "learn-py3-intermediate/notebooks/std_lib2.ipynb",
+      "size": 11122,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-23T03:44:48.092566Z",
+      "format": null,
+      "last_modified": "2022-05-23T03:43:40.284490Z",
+      "mimetype": null,
+      "name": "idiomatic_misc2.ipynb",
+      "path": "learn-py3-intermediate/notebooks/idiomatic_misc2.ipynb",
+      "size": 12760,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-05-23T03:44:48.092566Z",
+  "format": "json",
+  "last_modified": "2022-05-23T03:44:48.092566Z",
+  "mimetype": null,
+  "name": "notebooks",
+  "path": "learn-py3-intermediate/notebooks",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
